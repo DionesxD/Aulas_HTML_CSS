@@ -9,13 +9,21 @@ h1 {
     font-size: 96px;
     font-weight: 900;
     font-style: italic;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif ;
     text-decoration: underline;
+    text-align: center;
     
 }
 
+h2 {
+    color:rgb(8, 8, 8);
+    border-radius: 5%;
+
+
+}
 p {
     text-indent: 20px;
-    color: beige;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -35,7 +43,7 @@ p {
 body {
 
   
-    background-color: rgb(72, 96, 119);
+    background-color: rgb(255, 255, 255)5);
     
 }
 
